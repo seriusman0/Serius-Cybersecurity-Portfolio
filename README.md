@@ -136,4 +136,3 @@ Key insights
 * Think like an attacker, write like a consultant
 * Show methodology, not just results
 * Keep reports clean, structured, and reproducible
-# Serius-Cybersecurity-Portfolio
